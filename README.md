@@ -4,12 +4,9 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya seorang mahasiswa Sistem Informasi di Institut Teknologi Batam (ITEBA) dan aktif di Himpunan Mahasiswa Sistem Informasi (HMSI). Saat ini, saya sedang fokus mendalami *Mobile Development* melalui program di Infinite Learning. 
+Halo! Saya seorang mahasiswa Sistem Informasi di Institut Teknologi Batam (ITEBA)
 
-* 🔭 **Saat ini sedang mengerjakan:** Proyek kolaborasi lintas disiplin untuk pengembangan pariwisata digital Tanjungpinang (mendukung SDG *Reduced Inequalities*).
-* 🌱 **Sedang belajar:** *Mobile Development* & UI/UX Design.
-* 👯 **Bersedia berkolaborasi pada:** Proyek aplikasi mobile, riset desain pengalaman pengguna (UX), atau pengembangan sistem manajemen informasi.
-* 💬 **Tanya saya tentang:** Analisis kebutuhan sistem, *empathy mapping*, atau proses pengembangan aplikasi dari sisi mobile.
+
 
 ## 🛠️ Skills & Tech Stack
 
@@ -33,9 +30,6 @@ Halo! Saya seorang mahasiswa Sistem Informasi di Institut Teknologi Batam (ITEBA
 <p align="left">
   <a href="https://linkedin.com/in/LINKEDIN_KAMU](https://www.linkedin.com/in/muhammad-fadhlal-arifqi-nur-ghiffary-b66b623b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="PORTFOLIO_ATAU_INSTAGRAM_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
