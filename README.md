@@ -21,6 +21,15 @@ Information Systems student at Institut Teknologi Batam (ITEBA). Passionate abou
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=0095D5&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="left">
+  <img height="140" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=transparent" alt="Streak" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=5&hide_border=true&bg_color=00000000" alt="Top languages" />
+</p>
+
 ---
 
 ## 📊 Stats
