@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Fadhlal&fontSize=50&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Destroyer&fontSize=50&fontAlignY=35" alt="Banner" />
 </div>
 
 ## 👋 About Me
